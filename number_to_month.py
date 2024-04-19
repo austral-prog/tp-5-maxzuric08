@@ -1,7 +1,6 @@
 # Replace the "ANSWER HERE" for your answer
 
 def number_to_month(month):
-    def number_to_month(month):
     if 1<=month<=12:
         if month==1:
             return 'enero'
